@@ -17,4 +17,4 @@ buildNumber.properties
 .classpath
 
 #LLM specific
-.superpowers
+docs/superpowers
